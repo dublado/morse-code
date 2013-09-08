@@ -1,0 +1,12 @@
+{
+    "name": "morse-code",
+    "private": false,
+    "version": "0.0.1",
+    "author": "Kaique da Silva <kaique.developer@gmail.com>",
+    "description": "Simple morse code encoder and decoder lib.",
+    "dependencies": {},
+    "devDependencies": {
+        "should": "*",
+        "charlatan": "*"
+    }
+}
